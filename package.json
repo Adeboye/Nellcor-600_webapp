@@ -1,0 +1,9 @@
+{
+	"name": "airplanemap",
+	"version": "0.0.1",
+	"description" : "Application for visualization of medical data",
+	"dependencies": {
+		"socket.io": "~1.3.5",
+		"mime": "~1.3.4 "
+	}
+}
